@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="portable_time.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="yavnMPI3D.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="yavnMPI3D.h">
+    <ClInclude Include="function.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="portable_time.h">
